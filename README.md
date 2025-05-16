@@ -56,6 +56,8 @@ Developed by **Renatho Campos**
 📧 [renathohcc@hotmail.com]  
 🔗 [linkedin.com/in/renathohcc](https://linkedin.com/in/renathohcc)
 
+---
+
 ## 🇧🇷 Visão Geral do Projeto
 
 Sistema completo para **cadastro de funcionários e controle de ponto** desenvolvido em Excel com VBA. Permite registrar dados dos funcionários, registrar ponto por formulário, calcular automaticamente os valores por quinzena e gerar relatórios prontos para impressão e PDF.
