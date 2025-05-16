@@ -36,19 +36,6 @@ A fully automated employee management and payroll tracking system built in Excel
 
 ---
 
-## 📁 Folder Structure
-
-📦 cadastro_funcionarios
-├── 📄 README.md
-├── 📄 LICENSE
-├── 📂 docs
-    └── 📄 Manual_Usuario_Sistema_Funcionarios.docx
-├── 📂 imagens
-└── 📂 planilha
-    └── CADASTRO_DE_FUNCIONARIOS_MODELO.xlsm
-
----
-
 ## 💡 Use Cases
 
 - Construction companies managing rotating workers per worksite.
@@ -100,20 +87,6 @@ Sistema completo para **cadastro de funcionários e controle de ponto** desenvol
 | Menu | Cadastro de Funcionário | Relatório |
 |------|-------------|-----------|
 | ![Menu](./imagens/tela_inicial.png) | ![Cadastro de Funcionário](./imagens/cad_funcionario.png) | ![Relatório](./imagens/rel_fin.png) |
-
----
-
-## 📦 Estrutura de Pastas
-
-📦 cadastro_funcionarios
-├── 📄 README.md
-├── 📄 LICENSE
-├── 📂 docs
-    └── 📄 Manual_Usuario_Sistema_Funcionarios.docx
-├── 📂 imagens
-└── 📂 planilha
-    └── CADASTRO_DE_FUNCIONARIOS_MODELO.xlsm
-
 
 ---
 
